@@ -1,0 +1,31 @@
+body{
+  background-color: #64BFBF;}
+/*********************************TAG SELECTORS*******/
+
+h1{
+  color: red;
+  background-color: white;
+font-size: 75px;
+}
+
+img:hover
+{
+  background-color: gold;
+}
+
+/***************CLASS SELECTORS***********/
+
+.biryani {
+  background-color: green;
+}
+.broccoli {
+  background-color: red;
+}
+
+.circular{
+  border-radius: 100%;
+}
+/***************ID SELECTORS***********/
+#heading {
+  color: purple;
+}

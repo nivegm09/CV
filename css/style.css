@@ -1,0 +1,21 @@
+body{
+  background-color: #c06c84;
+      }
+img{
+    border-radius: 50%;
+      }
+hr
+{
+border-style: none;
+border-top-style: dotted;
+border-color: white;
+border-width: 5px;
+width: 50px;
+}
+h1{
+  color: white;
+  font-style: oblique;
+}
+h3{
+  color: #27296d;
+}
